@@ -140,7 +140,7 @@ int main() {
 		std::cout << "Salary: " << p3.salary << '\n';*/
 
 	
-	/*	person p4;
+		person p4;
 		p4.name = "Tom Smith";
 		//p4.birthday.day = 1;
 		//p4.birthday.month = 1;
@@ -172,10 +172,10 @@ int main() {
 		person p6;
 		fill_person(p6);
 		std::cout << "---------------------------\n";
-		show_person(p6);*/
+		show_person(p6);
 
 		//Задача: закрепление материала
-		/*std::cout << "Task 1\nОбъект: \n";
+		std::cout << "Task 1\nОбъект: \n";
 		persona A{
 			"Nick Jackobs",
 			20,
@@ -186,7 +186,7 @@ int main() {
 
 		std::cout << "Year of birth: " << year_of_birth(A, 2022) << '\n';
 
-		std::cout << "Общие сбережения: " << cash(A) << '\n*/
+		std::cout << "Общие сбережения: " << cash(A) << '\n
 
 
 		//Задача 2 Координаты
